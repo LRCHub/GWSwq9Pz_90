@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "リコイル",
+  "base_artist": "深夜枠",
+  "createdAt": "2026-01-03T18:05:45.568247Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "リコイル",
+      "artist": "深夜枠",
+      "has_synced": false,
+      "path": "select/pl_01_リコイル_深夜枠.txt"
+    }
+  ]
+}
